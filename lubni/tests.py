@@ -9,4 +9,4 @@ class TestClass(TestCase):
         self.assertTrue(True)
 
     def test_true2(self):
-        self.assertTrue(False)
+        self.assertTrue(True)
