@@ -5,4 +5,5 @@ class TestClass(TestCase):
     def test_true(self):
         self.assertTrue(True)
 
-
+    def test_true1(self):
+        self.assertTrue(True)
